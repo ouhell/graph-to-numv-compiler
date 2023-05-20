@@ -1,0 +1,17 @@
+{
+  "name": "svs-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "ts-node ./src/main.ts"
+  },
+  "author": "Oussama Islem Hamida",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
